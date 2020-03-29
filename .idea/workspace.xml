@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53587556-7611-4ed7-beaf-fde46070002e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZlLJZvIqV6VqdKZBjOKVMKypRm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/common/src/main/java/cn/xvkang/mina_udp/common" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/common/src/main/protobuf" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.xvkang.mina_udp.common.util" />
+      <recent name="cn.xvkang.mina_udp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/common/src/main/protobuf" />
+      <recent name="$PROJECT_DIR$/client/src/main/protobuf" />
+      <recent name="$PROJECT_DIR$/client/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Server">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.xvkang.mina_udp.client.Client" />
+      <module name="client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.xvkang.mina_udp.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cn.xvkang.mina_udp.client.Client" />
+      <module name="client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.xvkang.mina_udp.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinaClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.xvkang.mina_udp.client.MinaClient" />
+      <module name="client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.xvkang.mina_udp.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.xvkang.mina_udp.server.Server" />
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.xvkang.mina_udp.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client2" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Server" />
+      <item itemvalue="Application.MinaClient" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MinaClient" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53587556-7611-4ed7-beaf-fde46070002e" name="Default Changelist" comment="" />
+      <created>1585408662076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585408662076</updated>
+      <workItem from="1585408664964" duration="175000" />
+      <workItem from="1585448516793" duration="508000" />
+      <workItem from="1585449079137" duration="23738000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="420" y="132" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585456733627">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="420" y="132" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585456733627" />
+    <state x="659" y="302" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585462752123">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="659" y="302" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1585462752123" />
+    <state x="755" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1585472619679">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="755" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1585472619679" />
+    <state x="696" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585464969001">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="696" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585464969001" />
+    <state x="745" y="303" width="426" height="434" key="FileChooserDialogImpl" timestamp="1585462658265">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="745" y="303" width="426" height="434" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1585462658265" />
+    <state width="1876" height="239" key="GridCell.Tab.0.bottom" timestamp="1585477544129">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="239" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1585477544129" />
+    <state width="1876" height="239" key="GridCell.Tab.0.center" timestamp="1585477544129">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="239" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1585477544129" />
+    <state width="1876" height="239" key="GridCell.Tab.0.left" timestamp="1585477544128">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="239" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1585477544128" />
+    <state width="1876" height="239" key="GridCell.Tab.0.right" timestamp="1585477544129">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="239" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1585477544129" />
+    <state width="1876" height="393" key="GridCell.Tab.1.bottom" timestamp="1585475018229">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="393" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1585475018229" />
+    <state width="1876" height="393" key="GridCell.Tab.1.center" timestamp="1585475018228">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="393" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1585475018228" />
+    <state width="1876" height="393" key="GridCell.Tab.1.left" timestamp="1585475018228">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="393" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1585475018228" />
+    <state width="1876" height="393" key="GridCell.Tab.1.right" timestamp="1585475018228">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="393" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1585475018228" />
+    <state width="1876" height="393" key="GridCell.Tab.2.bottom" timestamp="1585475018229">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="393" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1585475018229" />
+    <state width="1876" height="393" key="GridCell.Tab.2.center" timestamp="1585475018229">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="393" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1585475018229" />
+    <state width="1876" height="393" key="GridCell.Tab.2.left" timestamp="1585475018229">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="393" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1585475018229" />
+    <state width="1876" height="393" key="GridCell.Tab.2.right" timestamp="1585475018229">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1876" height="393" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1585475018229" />
+    <state x="443" y="30" key="SettingsEditor" timestamp="1585463030193">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="443" y="30" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1585463030193" />
+    <state x="689" y="278" width="540" height="524" key="StructurePopup" timestamp="1585465137488">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="689" y="278" width="540" height="524" key="StructurePopup/0.0.1920.1080@0.0.1920.1080" timestamp="1585465137488" />
+    <state x="749" y="298" key="chooseDestDirectoryDialog" timestamp="1585461465155">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="749" y="298" key="chooseDestDirectoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585461465155" />
+    <state x="640" y="368" key="com.intellij.ide.util.TipDialog" timestamp="1585449079470">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="640" y="368" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585449079470" />
+    <state x="512" y="247" width="894" height="610" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1585472821783">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="512" y="247" width="894" height="610" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1080@0.0.1920.1080" timestamp="1585472821783" />
+    <state x="455" y="396" width="808" height="639" key="find.popup" timestamp="1585471397887">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="455" y="396" width="808" height="639" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1585471397887" />
+    <state x="334" y="162" key="new project wizard" timestamp="1585461249512">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="334" y="162" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1585461249512" />
+  </component>
+</project>
